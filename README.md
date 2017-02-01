@@ -25,7 +25,7 @@ ____________________________
 ## What's new?
 
 > 0.17 (Note)
->> COMING SOON - 2/2017
+>> #AvailableNOW
 >>> New:
 >>> + You can write on your wall!
 >>> + Fix something...
