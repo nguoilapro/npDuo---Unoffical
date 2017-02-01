@@ -25,7 +25,7 @@ ____________________________
 ## What's new?
 
 > 0.17 (Note)
->> #AvailableNOW
+>> \#\AvailableNOW
 >>> New:
 >>> + You can write on your wall!
 >>> + Fix something...
