@@ -25,7 +25,12 @@ ____________________________
 ## What's new?
 
 > 0.17 (Note)
->> \#AvailableNOW
+>> \#BloG
 >>> New:
 >>> + You can write on your wall!
 >>> + Fix something...
+
+> 0.17.1 (Note)
+>> \#AvailableNOW
+>>> New:
+>>> + Fix "Write On Wall"
